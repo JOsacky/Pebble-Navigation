@@ -1,0 +1,33 @@
+{
+    "shortName": "turn-by-turn-hello",
+    "capabilities": [
+        ""
+    ],
+    "watchapp": {
+        "watchface": false
+    },
+    "appKeys": {
+        "distance": 1,
+        "directions": 0,
+        "arrow": 2
+    },
+    "versionCode": 1,
+    "companyName": "jonathan@osacky.com",
+    "longName": "turn-by-turn-hello",
+    "versionLabel": "1.0",
+    "uuid": "2c8118e2-731c-429d-b5d9-e01ed6551562",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ArrowTurnLeft.png",
+                "name": "IMAGE_LEFT_TURN",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/ArrowTurnRight.png",
+                "name": "IMAGE_RIGHT_TURN",
+                "type": "png-trans"
+            }
+        ]
+    }
+}
